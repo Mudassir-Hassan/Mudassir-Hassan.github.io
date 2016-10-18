@@ -1,0 +1,6 @@
+c:\users\mudassir hassan\documents\visual studio 2013\Projects\BootstrapFirstWeb\BootstrapFirstWeb\bin\BootstrapFirstWeb.dll.config
+c:\users\mudassir hassan\documents\visual studio 2013\Projects\BootstrapFirstWeb\BootstrapFirstWeb\bin\BootstrapFirstWeb.dll
+c:\users\mudassir hassan\documents\visual studio 2013\Projects\BootstrapFirstWeb\BootstrapFirstWeb\bin\BootstrapFirstWeb.pdb
+c:\users\mudassir hassan\documents\visual studio 2013\Projects\BootstrapFirstWeb\BootstrapFirstWeb\obj\Debug\BootstrapFirstWeb.csprojResolveAssemblyReference.cache
+c:\users\mudassir hassan\documents\visual studio 2013\Projects\BootstrapFirstWeb\BootstrapFirstWeb\obj\Debug\BootstrapFirstWeb.dll
+c:\users\mudassir hassan\documents\visual studio 2013\Projects\BootstrapFirstWeb\BootstrapFirstWeb\obj\Debug\BootstrapFirstWeb.pdb
